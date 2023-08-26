@@ -45,7 +45,7 @@ This section lists the ongoing and completed projects within the Web Development
 
 ## 5. Contribution Guidelines
 
-We welcome contributions from all GDSC members to enhance our Web Development Domain. To contribute, follow these guidelines:
+We welcome contributions from all GDSC members to enhance our App Development Domain. To contribute, follow these guidelines:
 
 - Fork the repository and create a new branch for your work.
 - Keep your code clean, well-documented, and adhere to best practices.
