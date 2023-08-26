@@ -14,8 +14,6 @@ Welcome to the Git repository of the Web Development Domain for Google Developer
 - Projects
 - Contribution Guidelines
 - Communication
-- Code of Conduct
-- License
 
 ## About GDSC
 
